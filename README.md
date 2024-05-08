@@ -31,7 +31,7 @@ SEC Filings Analyzer is a full-stack application designed to visualize and analy
 
 1. Clone the repository:
 	 ```bash
-   git clone https://github.com/ImaginedTime/sec-edgar-analyser.git
+   git clone https://github.com/Udish-01/sec-filings-analyser.git
    cd sec-filings-analyzer
    ``` 
 
